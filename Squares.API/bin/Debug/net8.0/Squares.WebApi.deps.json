@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Squares.WebApi/1.0.0": {
+        "dependencies": {
+          "Squares.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Squares.WebApi.dll": {}
+        }
+      },
+      "Squares.Domain/1.0.0": {
+        "runtime": {
+          "Squares.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Squares.WebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Squares.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

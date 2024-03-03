@@ -1,0 +1,5 @@
+D:\C# projects repo\SquaresApi\Squares.Data\obj\Debug\net8.0\Squares.Data.csproj.AssemblyReference.cache
+D:\C# projects repo\SquaresApi\Squares.Data\obj\Debug\net8.0\Squares.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects repo\SquaresApi\Squares.Data\obj\Debug\net8.0\Squares.Data.AssemblyInfoInputs.cache
+D:\C# projects repo\SquaresApi\Squares.Data\obj\Debug\net8.0\Squares.Data.AssemblyInfo.cs
+D:\C# projects repo\SquaresApi\Squares.Data\obj\Debug\net8.0\Squares.Data.csproj.CoreCompileInputs.cache

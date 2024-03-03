@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  webapi:
+    image: squares_api
+    ports:
+      - "7043:8080"
+
+  prometheus:
+    image: prom/prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+
+  grafana:
+      image: grafana/grafana
+      ports:
+        - "3000:3000"
+      environment:
+        - GF_SECURITY_ADMIN_PASSWORD=admin
+      volumes:
+        - ./grafana_data:/var/lib/grafana
+      depends_on:
+        - prometheus
+
+  sql-server:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+        SA_PASSWORD: YourPassword123
+        ACCEPT_EULA: Y
+    ports:
+        - "1433:1433"
