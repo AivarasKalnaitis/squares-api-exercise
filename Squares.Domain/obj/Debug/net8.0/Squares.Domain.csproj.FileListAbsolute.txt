@@ -22,3 +22,16 @@ D:\C# projects repo\Squares\Squares.Domain\obj\Debug\net8.0\Squares.Domain.dll
 D:\C# projects repo\Squares\Squares.Domain\obj\Debug\net8.0\refint\Squares.Domain.dll
 D:\C# projects repo\Squares\Squares.Domain\obj\Debug\net8.0\Squares.Domain.pdb
 D:\C# projects repo\Squares\Squares.Domain\obj\Debug\net8.0\ref\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\bin\Debug\net8.0\Squares.Domain.deps.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\bin\Debug\net8.0\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\bin\Debug\net8.0\Squares.Domain.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.sourcelink.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\refint\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\Squares.Domain.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Domain\obj\Debug\net8.0\ref\Squares.Domain.dll

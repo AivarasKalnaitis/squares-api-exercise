@@ -10,7 +10,7 @@ namespace Squares.Business
     public class PointsListService(IPointsListRepository pointsListRepository) : IPointsListService
     {
         private readonly IPointsListRepository _pointsListRepository = pointsListRepository;
-        private readonly TimeSpan MaxOperationTime = TimeSpan.FromSeconds(1);
+        private readonly TimeSpan MaxOperationTime = TimeSpan.FromSeconds(5);
 
         public IEnumerable<PointsList> Get()
         {
@@ -66,10 +66,6 @@ namespace Squares.Business
             catch (OperationCanceledException)
             {
                 return Result.Failure<IEnumerable<Square>>("Request timed out");
-            }
-            catch(Exception ex)
-            {
-                return null;
             }
         }
 

@@ -28,3 +28,19 @@ D:\C# projects repo\Squares\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infr
 D:\C# projects repo\Squares\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.csproj.CoreCompileInputs.cache
 D:\C# projects repo\Squares\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.csproj.CopyComplete
 D:\C# projects repo\Squares\Squares.Infrastructure\obj\Debug\net8.0\ref\Squares.Infrastructure.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\bin\Debug\net8.0\Squares.Infrastructure.deps.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\bin\Debug\net8.0\Squares.Infrastructure.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\bin\Debug\net8.0\Squares.Infrastructure.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\bin\Debug\net8.0\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\bin\Debug\net8.0\Squares.Domain.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.sourcelink.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\refint\Squares.Infrastructure.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\Squares.Infrastructure.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Infrastructure\obj\Debug\net8.0\ref\Squares.Infrastructure.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5K0t3F3/hQaaEl3uG4QQimhXgft96/omI/LPHr7p0bUWFIkhVUY3kE0U5nI/PyX6BApy8vtbtPNmSFyGa+HWQ==",
+  "dgSpecHash": "3l9mjW2+ANmtuyC5SP7Qi/S/I8CEyE534BBU5Sig7ynpHdnzg7IqXW2R8BnmtTjIhNlX3KnJjyq06yVcAchH5A==",
   "success": true,
-  "projectFilePath": "D:\\C# projects repo\\Squares\\Squares.Domain\\Squares.Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Domain\\Squares.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

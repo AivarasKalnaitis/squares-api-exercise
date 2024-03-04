@@ -27,7 +27,8 @@ Squares API finds squares in 2D plane from user inported points list. It finds s
 ### For testing
 1. Clone repository to your machine
 2. Set database connection string
-3. Run projet on development environment
+3. Run prometheus service
+4. Run Squares API on development environment
 
 ### For production
 1. Clone repository to your machine

@@ -32,3 +32,21 @@ D:\C# projects repo\Squares\Squares.Business\obj\Debug\net8.0\Squares.Business.A
 D:\C# projects repo\Squares\Squares.Business\obj\Debug\net8.0\Squares.Business.csproj.CoreCompileInputs.cache
 D:\C# projects repo\Squares\Squares.Business\obj\Debug\net8.0\Squares.Business.csproj.CopyComplete
 D:\C# projects repo\Squares\Squares.Business\obj\Debug\net8.0\ref\Squares.Business.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Business.deps.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Business.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Business.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Domain.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Infrastructure.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Domain.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\bin\Debug\net8.0\Squares.Infrastructure.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.sourcelink.json
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.csproj.CopyComplete
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\refint\Squares.Business.dll
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\Squares.Business.pdb
+C:\Users\User\Desktop\squares-api-exercise\Squares.Business\obj\Debug\net8.0\ref\Squares.Business.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9qRGl2TG4dj8ENDda7Yp9xYgRe5OJJYXHUoxFilFJF645ON65t6rxSeWAmBYDUyfzT7i+2GEwv4sFI2QHtKrg==",
+  "dgSpecHash": "kuPJ4GixOpRDTVYl40VWGaO2FEwhI41QO3PIjxyjpbJURDMg5baLPjNxr4pPwITvhc3cnzGQQQhwU0fgT8zyDQ==",
   "success": true,
-  "projectFilePath": "D:\\C# projects repo\\Squares\\Squares.Tests\\Squares.Tests.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Tests\\Squares.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

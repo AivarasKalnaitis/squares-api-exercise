@@ -5432,11 +5432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# projects repo\\Squares\\Squares.API\\Squares.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.API\\Squares.API.csproj",
       "projectName": "Squares.API",
-      "projectPath": "D:\\C# projects repo\\Squares\\Squares.API\\Squares.API.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.API\\Squares.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\C# projects repo\\Squares\\Squares.API\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5456,11 +5456,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C# projects repo\\Squares\\Squares.Business\\Squares.Business.csproj": {
-              "projectPath": "D:\\C# projects repo\\Squares\\Squares.Business\\Squares.Business.csproj"
+            "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Business\\Squares.Business.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Business\\Squares.Business.csproj"
             },
-            "D:\\C# projects repo\\Squares\\Squares.Domain\\Squares.Domain.csproj": {
-              "projectPath": "D:\\C# projects repo\\Squares\\Squares.Domain\\Squares.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Domain\\Squares.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\squares-api-exercise\\Squares.Domain\\Squares.Domain.csproj"
             }
           }
         }

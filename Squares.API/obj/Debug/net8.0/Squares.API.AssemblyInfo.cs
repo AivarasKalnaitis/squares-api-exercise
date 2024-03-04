@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Squares.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f8a9152be3af476516bab99cc3d0631211bff67")]
 [assembly: System.Reflection.AssemblyProductAttribute("Squares.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Squares.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
